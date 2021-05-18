@@ -9,7 +9,7 @@ url:                   https://desjonqu.github.io
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-baseurl:               ''
+baseurl:               '/Desjonqu.github.io'
 
 
 # General settings
@@ -35,7 +35,7 @@ keywords:              [Ecoacoustics, Evolutionary biology]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/cd1.jpg
+logo:                  /Desjonqu.github.io/assets/img/cd1.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -89,7 +89,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/P1020254.JPG
+accent_image:          /Desjonqu.github.io/assets/img/P1020254.JPG
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -284,7 +284,7 @@ hydejack:
     enabled:           false
     cache_version:     13
     precache_assets:
-      - /assets/img/swipe.svg
+      - /Desjonqu.github.io/assets/img/swipe.svg
 
 
 # Collections
@@ -403,20 +403,20 @@ jekyll_compose:
       description: > 
         Camille Desjonquères's website
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /Desjonqu.github.io/assets/img/sidebar-bg.jpg
     posts:
       layout: post
       description: > 
         Camille Desjonquères's website
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /Desjonqu.github.io/assets/img/sidebar-bg.jpg
     projects:
       layout: project
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /Desjonqu.github.io/assets/img/sidebar-bg.jpg
       links:
         - title: Project Link
           url: https://example.com
