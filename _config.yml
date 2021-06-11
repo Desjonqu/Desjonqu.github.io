@@ -413,8 +413,7 @@ jekyll_compose:
     projects:
       layout: project
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        My current research projects
       image:
         path: /assets/img/sidebar-bg.jpg
       links:
