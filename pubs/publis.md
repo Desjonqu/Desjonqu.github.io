@@ -14,6 +14,10 @@ permalink: /pubs/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
+20. Bailey N. W., & Desjonquères C. The Indirect Genetic Effect Interaction Coefficient : Theoretically Essential and Empirically Neglected. Accepted. [*Journal Of Heredity*].
+
+19. Bailey N. W., Desjonquères C., Drago A., Rayner J. G., Sturiale S. L., & Zhang X. 2021. A neglected conceptual problem regarding phenotypic plasticity’s role in adaptive evolution: The importance of genetic covariance and social drive. [*Evolution Letters*](/assets/img/Bailey_et_al_2021_A_neglected_conceptual_problem_regarding.pdf), 5(5), 444-457.
+
 18. Abrahams C., **Desjonquères C.**, Greenhalgh, J. 2021. Pond Acoustic Sampling Scheme: A draft protocol for rapid acoustic data collection in small waterbodies. [*Ecology & Evolution*](/assets/img/Abrahams_et_al_Pond_Acoustic_Sampling_Scheme.pdf).
 
 17. **Desjonquères C.**, J. Maliszewski & R.L. Rodríguez. 2021. Juvenile social experience and practice have a switch-like influence on adult mate preferences in an insect. *[Evolution](/assets/img/Desjonqueres_et_al_2021_Juvenile_social_experience_and_practice_have_a.pdf)*.
