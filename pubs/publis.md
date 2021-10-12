@@ -14,7 +14,7 @@ permalink: /pubs/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-20. Bailey N. W., & Desjonquères C. The Indirect Genetic Effect Interaction Coefficient : Theoretically Essential and Empirically Neglected. Accepted. [*Journal Of Heredity*].
+20. Bailey N. W., & Desjonquères C. The Indirect Genetic Effect Interaction Coefficient : Theoretically Essential and Empirically Neglected. Accepted. *Journal Of Heredity*.
 
 19. Bailey N. W., Desjonquères C., Drago A., Rayner J. G., Sturiale S. L., & Zhang X. 2021. A neglected conceptual problem regarding phenotypic plasticity’s role in adaptive evolution: The importance of genetic covariance and social drive. [*Evolution Letters*](/assets/img/Bailey_et_al_2021_A_neglected_conceptual_problem_regarding.pdf), 5(5), 444-457.
 
