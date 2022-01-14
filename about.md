@@ -12,7 +12,7 @@ permalink: /about/
 
 <!--author-->
 
-I study the ecology and evolution of acoustic communication. I strive to understand how the biotic and abiotic environment affect acoustic signaling in animals. I am particularly interested in the dynamics of acoustic communities and the effect of social interactions on acoustic signals. I am currently conducting two main lines of research: developing methods of passive acoustic monitoring in various environments and in particular in freshwater environments; and understanding the role of socially mediated plasticity in rapid adaptation and reproductive isolation.
+    I am currently a post-doctoral fellow in [Nathan Bailey's lab](http://www.flexiblephenotype.org/) where I study the effect of social environment on divergence.
 
 I was previously a post-doctoral fellow in [Rafael Rodriguez's lab](http://www.preferencefunctions.org) where I studied the effect of social environment on mating in insects that communicate with substrate-borne vibrations.
 
