@@ -1,11 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.8)
-    duktape (2.6.0.0)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -98,7 +97,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  duktape
   jekyll (~> 4.1)
   jekyll-compose
   jekyll-default-layout
@@ -117,4 +115,4 @@ DEPENDENCIES
   kramdown-math-katex
 
 BUNDLED WITH
-   2.1.4
+   2.3.4

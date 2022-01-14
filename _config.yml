@@ -37,6 +37,10 @@ keywords:              [Ecoacoustics, Evolutionary biology]
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/cd1.jpg
 
+
+favicon: 	      /assets/favicon/favicon.ico
+apple_touch_icon:      /assets/favicon/apple-touch-icon.png
+
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
@@ -419,3 +423,5 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+

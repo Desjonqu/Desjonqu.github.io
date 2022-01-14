@@ -3,7 +3,7 @@ layout: about
 title: About
 image: /assets/img/camille.JPG
 description: >
-  Camille Desjonquères, Ecoacoustician
+  Camille Desjonquères
 hide_description: false
 permalink: /about/
 ---
@@ -12,6 +12,7 @@ permalink: /about/
 
 <!--author-->
 
+I study the ecology and evolution of acoustic communication. I strive to understand how the biotic and abiotic environment affect acoustic signaling in animals. I am particularly interested in the dynamics of acoustic communities and the effect of social interactions on acoustic signals. I am currently conducting two main lines of research: developing methods of passive acoustic monitoring in various environments and in particular in freshwater environments; and understanding the role of socially mediated plasticity in rapid adaptation and reproductive isolation.
 
 I was previously a post-doctoral fellow in [Rafael Rodriguez's lab](http://www.preferencefunctions.org) where I studied the effect of social environment on mating in insects that communicate with substrate-borne vibrations.
 
@@ -19,7 +20,7 @@ Before that, I was a post-doctoral fellow working with [Diego Llusia](https://ww
 
 I did my PhD on the acoustic diversity and ecology of freshwater environments supervised by [Fanny Rybak](http://www.cb.u-psud.fr/Fanny.htm) and [Jérôme Sueur](http://isyeb.mnhn.fr/annuaire-et-pages-personnelles/pages-personnelles/article/sueur-jerome). 
 
-You can find my CV [here](/assets/img/CVen.pdf).
+You can find my — somewhat up to date — CV [here](/assets/img/CVen.pdf).
 
 
 I am happy to collaborate on any project related to ecology, diversity and evolution of acoustic communication. You can reach me at [cdesjonqu@gmail.com](mailto:cdesjonqu@gmail.com).

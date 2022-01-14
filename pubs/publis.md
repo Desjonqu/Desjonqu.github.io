@@ -14,9 +14,9 @@ permalink: /pubs/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-20. Bailey N. W., & Desjonquères C. The Indirect Genetic Effect Interaction Coefficient : Theoretically Essential and Empirically Neglected. Accepted. *Journal Of Heredity*.
+20. Bailey N. W., & **Desjonquères C**. 2021. The Indirect Genetic Effect Interaction Coefficient : Theoretically Essential and Empirically Neglected. [*Journal Of Heredity*](/assets/img/Bailey_Desjonqueres_2021_The_Indirect_Genetic_Effect_Interaction.pdf).
 
-19. Bailey N. W., Desjonquères C., Drago A., Rayner J. G., Sturiale S. L., & Zhang X. 2021. A neglected conceptual problem regarding phenotypic plasticity’s role in adaptive evolution: The importance of genetic covariance and social drive. [*Evolution Letters*](/assets/img/Bailey_et_al_2021_A_neglected_conceptual_problem_regarding.pdf), 5(5), 444-457.
+19. Bailey N. W., **Desjonquères C.**, Drago A., Rayner J. G., Sturiale S. L., & Zhang X. 2021. A neglected conceptual problem regarding phenotypic plasticity’s role in adaptive evolution: The importance of genetic covariance and social drive. [*Evolution Letters*](/assets/img/Bailey_et_al_2021_A_neglected_conceptual_problem_regarding.pdf), 5(5), 444-457.
 
 18. Abrahams C., **Desjonquères C.**, Greenhalgh, J. 2021. Pond Acoustic Sampling Scheme: A draft protocol for rapid acoustic data collection in small waterbodies. [*Ecology & Evolution*](/assets/img/Abrahams_et_al_Pond_Acoustic_Sampling_Scheme.pdf).
 
@@ -65,6 +65,12 @@ permalink: /pubs/
 
 1. Cooper, L. C., **C. Desjonquères**, & S.R. Leather. 2014. Cannibalism in the pea aphid, *Acyrthosiphon pisum*. [*Insect science*](/assets/img/cooper_et_al_2013_Cannibalis.pdf), 21(6), 750-758.
 
+# Book Chapters 
+
+2. Linke, S, **C. Desjonquères**, T. Gifford & L. Barclay. Accepted. Freshwater ecoacoutics – a new addition for inland water monitoring. In Encyclopedia of Inland Waters. Elsevier.
+
+1. Rodríguez, R.L. & **C. Desjonquères**. 2019. Vibrational Signals: Sounds Transmitted Through Solids. In [Encyclopedia of Animal Behaviour](/assets/img/RodriguezDesjonqueres2019EAB.pdf). Oxford: Elsevier.
+
 
 # Other scientific contributions
 
@@ -72,11 +78,11 @@ permalink: /pubs/
 
 - *Book review*: **Desjonquères, C.** Ecoacoustics: The Ecological Role of Sounds edited by Almo Farina and Stuart H. Gage. 2018. [*The Quarterly Review of Biology*](/assets/img/Desjonqueres_2018_Ecoacoustics.pdf). 93(2), 143-144.
 
-- *Book Chapter*: Rodríguez, R.L. & **C. Desjonquères**. Vibrational Signals: Sounds Transmitted Through Solids. 2019. In [Encyclopedia of Animal Behaviour](/assets/img/RodriguezDesjonqueres2019EAB.pdf). Oxford: Elsevier.
 
 
 # Presentations at conferences and seminars
-
+- *November 2021*: Atelier INSU-INEE-INSIS du CNRS "Le vivant comme vecteur d’observation". Invited talk.
+- *September 2021* : ESEB satellite meeting on reproductive isolation, online. Oral presentation.
 - *December 2020*: Festival of Ecology, online conference. Invited talk.
 - *November 2020*: AGA2020 symposium on IGEs, online conference. Oral presentation.
 - *November 2020*: Tropicon, twitter conference. [Twitter thread](https://twitter.com/Desjonq/status/1324369633219063810?s=20).
