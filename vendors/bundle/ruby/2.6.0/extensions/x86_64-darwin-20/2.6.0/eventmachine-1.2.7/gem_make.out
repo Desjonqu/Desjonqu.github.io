@@ -1,0 +1,16 @@
+current directory: /Users/cdesjonq/Documents/Desjonqu.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/opt/ruby@2.6/bin/ruby -I /usr/local/Cellar/ruby@2.6/2.6.9/lib/ruby/2.6.0 -r ./siteconf20220106-35280-s1qds9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/cdesjonq/Documents/Desjonqu.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/cdesjonq/Documents/Desjonqu.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/cdesjonq/Documents/Desjonqu.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20220106-35280-nfixy2
