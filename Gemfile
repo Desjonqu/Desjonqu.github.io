@@ -27,6 +27,12 @@ gem "jekyll-theme-hydejack", "~> 9.1"
 gem "kramdown-math-katex"
 
 # A JavaScript runtime for ruby that helps with running the katex gem above.
+gem "duktape"
+
+# Fixes `jekyll serve` in ruby 3
+gem "webrick"
+
+# A JavaScript runtime for ruby that helps with running the katex gem above.
 
 group :jekyll_plugins do
   gem "jekyll-default-layout"
