@@ -93,7 +93,7 @@ permalink: /pubs/
 - *August 2022*: ESEB conference, Prague, Czech Republic. Symposium co-host and oral presentation.
 - *August 2022*: Workshop "Full-stack bioacoustics: field kit to AI to action", Leiden, the Netherlands. Poster presentation.
 - *May 2022*: OFB seminar series, online. Invited seminar.
-- $March 2022*: Friday Lab Chat, online. Oral presentation.
+- *March 2022*: Friday Lab Chat, online. Oral presentation.
 - *November 2021*: Atelier INSU-INEE-INSIS du CNRS "Le vivant comme vecteur d’observation". Invited talk.
 - *September 2021* : ESEB satellite meeting on reproductive isolation, online. Oral presentation.
 - *December 2020*: Festival of Ecology, online conference. Invited talk.
