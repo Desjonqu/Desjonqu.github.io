@@ -14,6 +14,10 @@ permalink: /pubs/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
+22. Escalante I., Kellner J. R., Rodríguez R. L., & **Desjonquères C.** Accepted. A female mimic signal type in the vibrational repertoire of male *Enchenopa* treehoppers. *Behaviour*.
+
+21. **Desjonquères C.**, Villén‐Pérez S., De Marco P., Márquez R., Beltrán J. F., & Llusia, D. 2022. Acoustic species distribution models (aSDMs): A framework to forecast shifts in calling behaviour under climate change. [*Methods in Ecology and Evolution*](/assets/img/Desjonqueres_et_al_2022_Acoustic_species_distribution_models_(_span.pdf).
+
 20. Bailey N. W., & **Desjonquères C**. 2021. The Indirect Genetic Effect Interaction Coefficient : Theoretically Essential and Empirically Neglected. [*Journal Of Heredity*](/assets/img/Bailey_Desjonqueres_2021_The_Indirect_Genetic_Effect_Interaction.pdf).
 
 19. Bailey N. W., **Desjonquères C.**, Drago A., Rayner J. G., Sturiale S. L., & Zhang X. 2021. A neglected conceptual problem regarding phenotypic plasticity’s role in adaptive evolution: The importance of genetic covariance and social drive. [*Evolution Letters*](/assets/img/Bailey_et_al_2021_A_neglected_conceptual_problem_regarding.pdf), 5(5), 444-457.
@@ -67,7 +71,8 @@ permalink: /pubs/
 
 # Book Chapters 
 
-2. Linke, S, **C. Desjonquères**, T. Gifford & L. Barclay. Accepted. Freshwater ecoacoutics – a new addition for inland water monitoring. In Encyclopedia of Inland Waters. Elsevier.
+2. Linke, S, **C. Desjonquères**, T. Gifford & L. Barclay. 2022. Freshwater ecoacoutics–a new addition for inland water monitoring. [Reference Module in Earth Systems and Environmental Sciences](/assets/img/Linke_et_al_2022_Freshwater_Ecoacoustics—A_New_Addition_to_the.pdf), 4, 657-666.
+
 
 1. Rodríguez, R.L. & **C. Desjonquères**. 2019. Vibrational Signals: Sounds Transmitted Through Solids. In [Encyclopedia of Animal Behaviour](/assets/img/RodriguezDesjonqueres2019EAB.pdf). Oxford: Elsevier.
 
@@ -81,6 +86,14 @@ permalink: /pubs/
 
 
 # Presentations at conferences and seminars
+
+- *September 2022*: Acoustics Methods Series, Online. Invited seminar.
+- *September 2022*: Bridging Brains and Bioacoustics seminar, Online. Invited seminar.
+- *September 2022*: BIOSEFAIR, Lyon, France. Invited seminar.
+- *August 2022*: ESEB conference, Prague, Czech Republic. Symposium co-host and oral presentation.
+- *August 2022*: Workshop "Full-stack bioacoustics: field kit to AI to action", Leiden, the Netherlands. Poster presentation.
+- *May 2022*: OFB seminar series, online. Invited seminar.
+- $March 2022*: Friday Lab Chat, online. Oral presentation.
 - *November 2021*: Atelier INSU-INEE-INSIS du CNRS "Le vivant comme vecteur d’observation". Invited talk.
 - *September 2021* : ESEB satellite meeting on reproductive isolation, online. Oral presentation.
 - *December 2020*: Festival of Ecology, online conference. Invited talk.
