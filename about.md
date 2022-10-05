@@ -16,7 +16,7 @@ I study the ecology and evolution of acoustic communication. I strive to underst
 
 I am currently a post-doctoral fellow in [Wilfried Thuiller's](http://www.will.chez-alice.fr/About_me.html) team at the Université Grenoble Alpes where I am setting up a network of acoustic recorders along elevational gradients in the Alps and the Pyrenees to monitor mountain environments.
 
-I was previously a post-doctoral fellow between [Rafael Rodriguez's lab](http://www.preferencefunctions.org) and [Nathan Bailey's lab](http://www.flexiblephenotype.org/) where I studied the effect of social environment on mating in insects that communicate with substrate-borne vibrations.
+I was previously a post-doctoral fellow between [Rafael Rodriguez's lab](http://www.preferencefunctions.org) and [Nathan Bailey's lab](http://www.flexiblephenotype.org/) where I studied the effect of social environment on mate choice in insects that communicate with substrate-borne vibrations.
 
 Before that, I was a post-doctoral fellow working with [Diego Llusia](https://www.uam.es/Ciencias/Llusia-Genique,-Diego/1446738942604.htm?language=es&pid=1242665012287&title=Llusia%20Genique,%20Diego) in the [Departamento de Ecología](https://www.uam.es/Ciencias/Departamento-de-Ecologia/1242664090207.htm?language=es&nodepath=Departamento%20de%20Ecolog?a) ([Universidad Autónoma de Madrid](https://www.uam.es/UAM/Home.htm?language=es)) where I studied the effect of climate change on frogs.
 
