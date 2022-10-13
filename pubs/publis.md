@@ -16,9 +16,9 @@ permalink: /pubs/
 
 22. Escalante I., Kellner J. R., Rodríguez R. L., & **Desjonquères C.** Accepted. A female mimic signal type in the vibrational repertoire of male *Enchenopa* treehoppers. *Behaviour*.
 
-21. **Desjonquères C.**, Villén‐Pérez S., De Marco P., Márquez R., Beltrán J. F., & Llusia, D. 2022. Acoustic species distribution models (aSDMs): A framework to forecast shifts in calling behaviour under climate change. [*Methods in Ecology and Evolution*](/assets/img/Desjonqueres_et_al_2022_Acoustic_species_distribution_models.pdf).
+21. **Desjonquères C.**, Villén‐Pérez S., De Marco P., Márquez R., Beltrán J. F., & Llusia, D. 2022. Acoustic species distribution models (aSDMs): A framework to forecast shifts in calling behaviour under climate change. [*Methods in Ecology and Evolution*](/assets/img/Desjonqueres_et_al_2022_Acoustic_species_distribution_models.pdf), 13(10), 2275-2288.
 
-20. Bailey N. W., & **Desjonquères C**. 2021. The Indirect Genetic Effect Interaction Coefficient : Theoretically Essential and Empirically Neglected. [*Journal Of Heredity*](/assets/img/Bailey_Desjonqueres_2021_The_Indirect_Genetic_Effect_Interaction.pdf).
+20. Bailey N. W., & **Desjonquères C**. 2021. The Indirect Genetic Effect Interaction Coefficient : Theoretically Essential and Empirically Neglected. [*Journal Of Heredity*](/assets/img/Bailey_Desjonqueres_2021_The_Indirect_Genetic_Effect_Interaction.pdf), 113(1), 79-90.
 
 19. Bailey N. W., **Desjonquères C.**, Drago A., Rayner J. G., Sturiale S. L., & Zhang X. 2021. A neglected conceptual problem regarding phenotypic plasticity’s role in adaptive evolution: The importance of genetic covariance and social drive. [*Evolution Letters*](/assets/img/Bailey_et_al_2021_A_neglected_conceptual_problem_regarding.pdf), 5(5), 444-457.
 
