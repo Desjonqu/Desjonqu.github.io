@@ -14,7 +14,7 @@ permalink: /pubs/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-22. Escalante I., Kellner J. R., Rodríguez R. L., & **Desjonquères C.** Accepted. A female mimic signal type in the vibrational repertoire of male *Enchenopa* treehoppers. *Behaviour*.
+22. Escalante I., Kellner J. R., Rodríguez R. L., & **Desjonquères C.** 2022. A female mimic signal type in the vibrational repertoire of male *Enchenopa* treehoppers. [*Behaviour*](/assets/img/Escalante_et_al_2022_A_female_mimic_signal_type_in_the_vibrational.pdf).
 
 21. **Desjonquères C.**, Villén‐Pérez S., De Marco P., Márquez R., Beltrán J. F., & Llusia, D. 2022. Acoustic species distribution models (aSDMs): A framework to forecast shifts in calling behaviour under climate change. [*Methods in Ecology and Evolution*](/assets/img/Desjonqueres_et_al_2022_Acoustic_species_distribution_models.pdf), 13(10), 2275-2288.
 
