@@ -14,7 +14,7 @@ permalink: /about/
 
 I study the ecology and evolution of acoustic communication. I strive to understand how the biotic and abiotic environment affect acoustic signaling in animals. I am particularly interested in the dynamics of acoustic communities and the effect of social interactions on acoustic signals. I am currently conducting two main lines of research: developing methods of passive acoustic monitoring in various environments and in particular in freshwater environments and understanding the role of socially mediated plasticity in rapid adaptation and reproductive isolation.
 
-I am currently a post-doctoral fellow in [Wilfried Thuiller's](http://www.will.chez-alice.fr/About_me.html) team at the Université Grenoble Alpes where I am setting up a network of acoustic recorders along elevational gradients in the Alps and the Pyrenees to monitor mountain environments.
+I am currently a post-doctoral fellow in [Wilfried Thuiller's](http://www.will.chez-alice.fr/About_me.html) team at the Université Grenoble Alpes where I am setting up a network of acoustic recorders along elevational gradients in the Alps and the Pyrenees to monitor mountain environments. Starting in January 2024, I will become a CNRS researcher.
 
 I was previously a post-doctoral fellow between [Rafael Rodriguez's lab](http://www.preferencefunctions.org) and [Nathan Bailey's lab](http://www.flexiblephenotype.org/) where I studied the effect of social environment on mate choice in insects that communicate with substrate-borne vibrations.
 
@@ -25,4 +25,4 @@ I did my PhD on the acoustic diversity and ecology of freshwater environments su
 You can find my — somewhat up to date — CV [here](/assets/img/CVen.pdf).
 
 
-I am happy to collaborate on any project related to ecology, diversity and evolution of acoustic communication. You can reach me at [cdesjonqu@gmail.com](mailto:cdesjonqu@gmail.com).
+I am happy to collaborate on any project related to ecology, diversity and evolution of acoustic communication. You can reach me at [camille.desjonqueres@univ-grenoble-alpes.fr](mailto:camille.desjonqueres@univ-grenoble-alpes.fr).

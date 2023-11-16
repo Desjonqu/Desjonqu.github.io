@@ -14,7 +14,17 @@ permalink: /pubs/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-22. Escalante I., Kellner J. R., Rodríguez R. L., & **Desjonquères C.** 2022. A female mimic signal type in the vibrational repertoire of male *Enchenopa* treehoppers. [*Behaviour*](/assets/img/Escalante_et_al_2022_A_female_mimic_signal_type_in_the_vibrational.pdf).
+27. **Desjonquères C.**, Speck B., Seidita S., Cirino L. A., Escalante I., Sergi C., Maliszewski J., Wiese C., Hoebel G., Bailey N. W. & Rodríguez, R. L. (2023). Social plasticity enhances signal-preference co-divergence. [*The American Naturalist*](/assets/img/Desjonquères_et_al_2023_Social_plasticity_enhances_signal-preference.pdf).
+
+26. Bradfer‐Lawrence T., **Desjonquères C., Eldridge A., Johnston A., & Metcalf O. (2023). Using acoustic indices in ecology: Guidance on study design, analyses and interpretation. [*Methods in Ecology and Evolution*](/assets/img/Bradfer‐Lawrence_et_al_2023_Using_acoustic_indices_in_ecology.pdf), 14(9), 2192-2204.
+
+25. **Desjonquères C.**, & Rodríguez R. L. (2023). The direction and strength of social plasticity in mating signals and mate preferences vary with the life stage of induction. [*Animal Behaviour*](/assets/img/Desjonquères_Rodríguez_2023_The_direction_and_strength_of_social_plasticity.pdf), 200, 255-261, Special Issue: Behavioural Plasticity II.
+
+24. Cirino L. A., Gallagher I. D., **Desjonquères C.**, & Rodríguez R. L. (2023). Robust mate preferences despite means and opportunity for mate choice copying in an insect. [*Animal Behaviour*](/assets/img/Cirino_et_al_2023_Robust_mate_preferences_despite_means_and.pdf), 200, 137-146.
+
+23. Ross S. R. J., O'Connell D. P., Deichmann J. L., **Desjonquères C.*, Gasc A., Phillips J. N., Sethi S., Wood C. M., & Burivalova, Z. (2023). Passive acoustic monitoring provides a fresh perspective on fundamental ecological questions. [*Functional Ecology*]{/assets/img/Ross_et_al_2023_Passive_acoustic_monitoring_provides_a_fresh.pdf}, 37(4), 959-975.
+
+22. Escalante I., Kellner J. R., Rodríguez R. L., & **Desjonquères C.** 2022. A female mimic signal type in the vibrational repertoire of male *Enchenopa* treehoppers. [*Behaviour*](/assets/img/Escalante_et_al_2022_A_female_mimic_signal_type_in_the_vibrational.pdf), 159(13-14), 1319-1340.
 
 21. **Desjonquères C.**, Villén‐Pérez S., De Marco P., Márquez R., Beltrán J. F., & Llusia, D. 2022. Acoustic species distribution models (aSDMs): A framework to forecast shifts in calling behaviour under climate change. [*Methods in Ecology and Evolution*](/assets/img/Desjonqueres_et_al_2022_Acoustic_species_distribution_models.pdf), 13(10), 2275-2288.
 
@@ -71,6 +81,8 @@ permalink: /pubs/
 
 # Book Chapters 
 
+3. Rojas E., **Desjonquères C.**, Agostini S., Fiorini S., Decencière B., Danger M., Felten V., & Médoc V. (2023). Response of freshwater zooplankton communities to chronic anthropogenic noise. [The Effects of Noise on Aquatic Life: Principles and Practical Considerations](/assets/img/Rojas_et_al_2023_Response_of_Freshwater_Zooplankton_Communities_to.pdf).
+
 2. Linke, S, **C. Desjonquères**, T. Gifford & L. Barclay. 2022. Freshwater ecoacoutics–a new addition for inland water monitoring. [Reference Module in Earth Systems and Environmental Sciences](/assets/img/Linke_et_al_2022_Freshwater_EcoacousticsA_New_Addition_to_the.pdf), 4, 657-666.
 
 
@@ -87,6 +99,7 @@ permalink: /pubs/
 
 # Presentations at conferences and seminars
 
+- *November 2022*: ENES lab, Saint-Etienne, France. Invited seminar 
 - *September 2022*: Acoustics Methods Series, Online. Invited seminar.
 - *September 2022*: Bridging Brains and Bioacoustics seminar, Online. Invited seminar.
 - *September 2022*: BIOSEFAIR, Lyon, France. Invited seminar.
