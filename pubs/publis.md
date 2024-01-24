@@ -14,15 +14,17 @@ permalink: /pubs/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-27. **Desjonquères C.**, Speck B., Seidita S., Cirino L. A., Escalante I., Sergi C., Maliszewski J., Wiese C., Hoebel G., Bailey N. W. & Rodríguez, R. L. (2023). Social plasticity enhances signal-preference co-divergence. [*The American Naturalist*](/assets/img/Desjonquères_et_al_2023_Social_plasticity_enhances_signal-preference.pdf).
+28. Escalante I., Kellner J. R., **Desjonquères C.**, Noffsinger G. M., Cirino L. A., Rodríguez A. N., DeLong S. A. & Rodríguez, R. L. (2023). On the function of a female-like signal type in the vibrational repertoire of Enchenopa male treehoppers (Hemiptera: Membracidae). [*Journal of Evolutionary Biology*](/asset/img/Escalante_et_al_2023_On_the_function_of_a_female-like_signal_type_in.pdf), voad010.
 
-26. Bradfer‐Lawrence T., **Desjonquères C., Eldridge A., Johnston A., & Metcalf O. (2023). Using acoustic indices in ecology: Guidance on study design, analyses and interpretation. [*Methods in Ecology and Evolution*](/assets/img/Bradfer‐Lawrence_et_al_2023_Using_acoustic_indices_in_ecology.pdf), 14(9), 2192-2204.
+27. **Desjonquères C.**, Speck B., Seidita S., Cirino L. A., Escalante I., Sergi C., Maliszewski J., Wiese C., Hoebel G., Bailey N. W. & Rodríguez, R. L. (2023). Social plasticity enhances signal-preference co-divergence. [*The American Naturalist*](/assets/img/Desjonqueres_et_al_2023_Social_plasticity_enhances_signal-preference.pdf).
+
+26. Bradfer‐Lawrence T., **Desjonquères C.**, Eldridge A., Johnston A., & Metcalf O. (2023). Using acoustic indices in ecology: Guidance on study design, analyses and interpretation. [*Methods in Ecology and Evolution*](/assets/img/Bradfer‐Lawrence_et_al_2023_Using_acoustic_indices_in_ecology.pdf), 14(9), 2192-2204.
 
 25. **Desjonquères C.**, & Rodríguez R. L. (2023). The direction and strength of social plasticity in mating signals and mate preferences vary with the life stage of induction. [*Animal Behaviour*](/assets/img/Desjonquères_Rodríguez_2023_The_direction_and_strength_of_social_plasticity.pdf), 200, 255-261, Special Issue: Behavioural Plasticity II.
 
 24. Cirino L. A., Gallagher I. D., **Desjonquères C.**, & Rodríguez R. L. (2023). Robust mate preferences despite means and opportunity for mate choice copying in an insect. [*Animal Behaviour*](/assets/img/Cirino_et_al_2023_Robust_mate_preferences_despite_means_and.pdf), 200, 137-146.
 
-23. Ross S. R. J., O'Connell D. P., Deichmann J. L., **Desjonquères C.*, Gasc A., Phillips J. N., Sethi S., Wood C. M., & Burivalova, Z. (2023). Passive acoustic monitoring provides a fresh perspective on fundamental ecological questions. [*Functional Ecology*]{/assets/img/Ross_et_al_2023_Passive_acoustic_monitoring_provides_a_fresh.pdf}, 37(4), 959-975.
+23. Ross S. R. J., O'Connell D. P., Deichmann J. L., **Desjonquères C.**, Gasc A., Phillips J. N., Sethi S., Wood C. M., & Burivalova, Z. (2023). Passive acoustic monitoring provides a fresh perspective on fundamental ecological questions. [*Functional Ecology*]{/assets/img/Ross_et_al_2023_Passive_acoustic_monitoring_provides_a_fresh.pdf}, 37(4), 959-975.
 
 22. Escalante I., Kellner J. R., Rodríguez R. L., & **Desjonquères C.** 2022. A female mimic signal type in the vibrational repertoire of male *Enchenopa* treehoppers. [*Behaviour*](/assets/img/Escalante_et_al_2022_A_female_mimic_signal_type_in_the_vibrational.pdf), 159(13-14), 1319-1340.
 
@@ -99,7 +101,13 @@ permalink: /pubs/
 
 # Presentations at conferences and seminars
 
-- *November 2022*: ENES lab, Saint-Etienne, France. Invited seminar 
+- *November 2023*: Atelier Biodiversity OSUG, Grenoble, France. Invited talk.
+- *November 2023*: Sounds of Life, online. [Invited talk](https://videos-passages.huma-num.fr/w/p/5JY9T19S1Nm8ZdK7xMDLuG?playlistPosition=2).
+- *November 2023*: EcoSum 2023: Biodiversity past, present and future. Grenoble, France. Invited seminar.
+- *October 2023*: International Bioacoustic Congress, Sapporo, Japan. Oral presentation. 
+- *October 2023*: Phantom of the Orthoptera, Wildlife acoustics, online. [Invited webinar](https://vimeo.com/872007140/1288908e2c?ts=5244000&share=copy)
+- *September 2023*: LECA seminar, Grenoble, France. Invited seminar.
+- *November 2022*: ENES lab, Saint-Etienne, France. Invited seminar.
 - *September 2022*: Acoustics Methods Series, Online. Invited seminar.
 - *September 2022*: Bridging Brains and Bioacoustics seminar, Online. Invited seminar.
 - *September 2022*: BIOSEFAIR, Lyon, France. Invited seminar.
@@ -114,7 +122,7 @@ permalink: /pubs/
 - *November 2020*: Tropicon, twitter conference. [Twitter thread](https://twitter.com/Desjonq/status/1324369633219063810?s=20).
 - *October 2020*: Laboratoire écologie fonctionnelle et environnement. Invited seminar.
 - *March 2020*: Laboratoire d’écologie Alpine, Grenoble, France. Invited seminar.
-- *February 2020*: Center for Acoustics Research and Education (CARE) spring seminar series, University of New Hampshire, Durham, USA. Invited webinar.
+- *February 2020*: Center for Acoustics Research and Education (CARE) spring seminar series, University of New Hampshire, Durham, USA. [Invited webinar](https://www.youtube.com/watch?v=GOGKHxJoC_Q).
 - *January 2020*: Centre d'Ecologie Fonctionnelle & Evolutive, Montpellier, France. Seminar. 
 - *December 2019*: 2019 ASAB winter meeting, London, UK. Oral presentation.
 - *September 2019*: International Bioacoustic Congress, Brighton, UK. Invited talk and oral presentation.
