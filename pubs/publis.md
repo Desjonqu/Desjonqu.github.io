@@ -14,13 +14,13 @@ permalink: /pubs/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-30. **Desjonquères C.**, Linke S., Greenhalgh J., Rybak F., & Sueur J. (2024). The potential of acoustic monitoring of aquatic insects for freshwater assessment. [*Philosophical Transactions of the Royal Society B*](/asset/img/Desjonqueres_et_al_2024_The_potential_of_acoustic_monitoring_of_aquatic.pdf), 379(1904), 20230109.	
+30. **Desjonquères C.**, Linke S., Greenhalgh J., Rybak F., & Sueur J. (2024). The potential of acoustic monitoring of aquatic insects for freshwater assessment. [*Philosophical Transactions of the Royal Society B*](/assets/img/Desjonqueres_et_al_2024_The_potential_of_acoustic_monitoring_of_aquatic.pdf), 379(1904), 20230109.	
 
-29. Rodríguez Ballesteros A., **Desjonquères C.**, Hevia V., García Llorente M., Ulloa J. S., & Llusia D. (2024). Towards acoustic monitoring of bees: wingbeat sounds are related to species and individual traits. [*Philosophical Transactions of the Royal Society B*](/asset/img/Rodriguez_Ballesteros_et_al_2024_Towards_acoustic_monitoring_of_bees.pdf), 379(1904), 20230111.
+29. Rodríguez Ballesteros A., **Desjonquères C.**, Hevia V., García Llorente M., Ulloa J. S., & Llusia D. (2024). Towards acoustic monitoring of bees: wingbeat sounds are related to species and individual traits. [*Philosophical Transactions of the Royal Society B*](/assets/img/Rodriguez_Ballesteros_et_al_2024_Towards_acoustic_monitoring_of_bees.pdf), 379(1904), 20230111.
 
-28. Escalante I., Kellner J. R., **Desjonquères C.**, Noffsinger G. M., Cirino L. A., Rodríguez A. N., DeLong S. A. & Rodríguez, R. L. (2023). On the function of a female-like signal type in the vibrational repertoire of Enchenopa male treehoppers (Hemiptera: Membracidae). [*Journal of Evolutionary Biology*](/asset/img/Escalante_et_al_2023_On_the_function_of_a_female-like_signal_type_in.pdf), voad010.
+28. Escalante I., Kellner J. R., **Desjonquères C.**, Noffsinger G. M., Cirino L. A., Rodríguez A. N., DeLong S. A. & Rodríguez, R. L. (2023). On the function of a female-like signal type in the vibrational repertoire of Enchenopa male treehoppers (Hemiptera: Membracidae). [*Journal of Evolutionary Biology*](/assets/img/Escalante_et_al_2023_On_the_function_of_a_female-like_signal_type_in.pdf), voad010.
 
-27. **Desjonquères C.**, Speck B., Seidita S., Cirino L. A., Escalante I., Sergi C., Maliszewski J., Wiese C., Hoebel G., Bailey N. W. & Rodríguez, R. L. (2023). Social plasticity enhances signal-preference co-divergence. [*The American Naturalist*](/assets/img/Desjonqueres_et_al_2023_Social_plasticity_enhances_signal-preference.pdf).
+27. **Desjonquères C.**, Speck B., Seidita S., Cirino L. A., Escalante I., Sergi C., Maliszewski J., Wiese C., Hoebel G., Bailey N. W. & Rodríguez, R. L. (2023). Social plasticity enhances signal-preference co-divergence. [*The American Naturalist*](/assets/img/Desjonqueres_et_al_2023_Social_Plasticity_Enhances_Signal-Preference.pdf).
 
 26. Bradfer‐Lawrence T., **Desjonquères C.**, Eldridge A., Johnston A., & Metcalf O. (2023). Using acoustic indices in ecology: Guidance on study design, analyses and interpretation. [*Methods in Ecology and Evolution*](/assets/img/Bradfer‐Lawrence_et_al_2023_Using_acoustic_indices_in_ecology.pdf), 14(9), 2192-2204.
 
