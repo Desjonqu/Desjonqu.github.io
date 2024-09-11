@@ -14,13 +14,17 @@ permalink: /pubs/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
+30. **Desjonquères C.**, Linke S., Greenhalgh J., Rybak F., & Sueur J. (2024). The potential of acoustic monitoring of aquatic insects for freshwater assessment. [*Philosophical Transactions of the Royal Society B*](/asset/img/Desjonqueres_et_al_2024_The_potential_of_acoustic_monitoring_of_aquatic.pdf), 379(1904), 20230109.	
+
+29. Rodríguez Ballesteros A., **Desjonquères C.**, Hevia V., García Llorente M., Ulloa J. S., & Llusia D. (2024). Towards acoustic monitoring of bees: wingbeat sounds are related to species and individual traits. [*Philosophical Transactions of the Royal Society B*](/asset/img/Rodriguez_Ballesteros_et_al_2024_Towards_acoustic_monitoring_of_bees.pdf), 379(1904), 20230111.
+
 28. Escalante I., Kellner J. R., **Desjonquères C.**, Noffsinger G. M., Cirino L. A., Rodríguez A. N., DeLong S. A. & Rodríguez, R. L. (2023). On the function of a female-like signal type in the vibrational repertoire of Enchenopa male treehoppers (Hemiptera: Membracidae). [*Journal of Evolutionary Biology*](/asset/img/Escalante_et_al_2023_On_the_function_of_a_female-like_signal_type_in.pdf), voad010.
 
 27. **Desjonquères C.**, Speck B., Seidita S., Cirino L. A., Escalante I., Sergi C., Maliszewski J., Wiese C., Hoebel G., Bailey N. W. & Rodríguez, R. L. (2023). Social plasticity enhances signal-preference co-divergence. [*The American Naturalist*](/assets/img/Desjonqueres_et_al_2023_Social_plasticity_enhances_signal-preference.pdf).
 
 26. Bradfer‐Lawrence T., **Desjonquères C.**, Eldridge A., Johnston A., & Metcalf O. (2023). Using acoustic indices in ecology: Guidance on study design, analyses and interpretation. [*Methods in Ecology and Evolution*](/assets/img/Bradfer‐Lawrence_et_al_2023_Using_acoustic_indices_in_ecology.pdf), 14(9), 2192-2204.
 
-25. **Desjonquères C.**, & Rodríguez R. L. (2023). The direction and strength of social plasticity in mating signals and mate preferences vary with the life stage of induction. [*Animal Behaviour*](/assets/img/Desjonquères_Rodríguez_2023_The_direction_and_strength_of_social_plasticity.pdf), 200, 255-261, Special Issue: Behavioural Plasticity II.
+25. **Desjonquères C.**, & Rodríguez R. L. (2023). The direction and strength of social plasticity in mating signals and mate preferences vary with the life stage of induction. [*Animal Behaviour*](/assets/img/Desjonqueres_Rodriguez_2023_The_direction_and_strength_of_social_plasticity.pdf), 200, 255-261, Special Issue: Behavioural Plasticity II.
 
 24. Cirino L. A., Gallagher I. D., **Desjonquères C.**, & Rodríguez R. L. (2023). Robust mate preferences despite means and opportunity for mate choice copying in an insect. [*Animal Behaviour*](/assets/img/Cirino_et_al_2023_Robust_mate_preferences_despite_means_and.pdf), 200, 137-146.
 
@@ -101,6 +105,9 @@ permalink: /pubs/
 
 # Presentations at conferences and seminars
 
+- *July 2024*: Ecoacoustics 2024. Madrid, Spain. Oral Presentation, invited talk and symposium host.
+- *June 2024*: Emerging Bioacoustician days. Brest, France. Plenary talk.
+- *April 2024*: Conference "Erosion et Biodiversité" l’OSUG. Grenoble, France. Invited talk.
 - *November 2023*: Atelier Biodiversity OSUG, Grenoble, France. Invited talk.
 - *November 2023*: Sounds of Life, online. [Invited talk](https://videos-passages.huma-num.fr/w/p/5JY9T19S1Nm8ZdK7xMDLuG?playlistPosition=2).
 - *November 2023*: EcoSum 2023: Biodiversity past, present and future. Grenoble, France. Invited seminar.

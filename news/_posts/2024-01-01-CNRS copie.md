@@ -1,9 +1,0 @@
----
-layout: post
-title: 'CNRS researcher'
-tags: [News]
----
-
-Happy new year! Today is my first day as a [CNRS](https://www.cnrs.fr/en) permanent researcher (chargée de recherche) at the [Laboratoire d'Ecologie Alpine](https://leca.osug.fr/). I am so excited to finally settle down for a bit and for the new opportunities here in Grenoble. I'm looking forward to welcoming colleagues for exciting new work on ecoacoustics in the Alps or elsewhere !
-
-![diapo](/assets/img/logoCNRS.svg){:class="img-responsive" width="400" }
